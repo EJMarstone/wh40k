@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="61c6-c8c5-a304-ff5f" name="Necrons" revision="120" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Dr. Toboggan" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="244" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="61c6-c8c5-a304-ff5f" name="Necrons" revision="121" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Dr. Toboggan" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="244" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <readme>The Necrons are amongst the most ancient and powerful races in the galaxy. Armoured bodies of living metal, they advance in inexorable lockstep upon their terrified foes. Their weapons unleash the fundamental energies of the cosmos, even as flickering portals beam Necrons into battle from across impossible interstellar gulfs. Shattered shards of insane star gods warp reality itself to annihilate the enemy, even as deranged nobles command mighty war engines to eradicate their victims wholesale. Terrible, monstrous beings with bladed limbs and glowing eyes stalk their victims from the shadows, attacking in sudden explosions of insane butchery. As the Necrons archeotechnological tomb cities rise up from below and their eerie invasion fleets sweep down from the skies, their enemies feel the icy grip of terror clutch their hearts; surely their doom is upon them.</readme>
   <publications>
     <publication id="61c6-c8c5-pubN65537" name="Codex: Necrons" shortName="Necrons" publisher="Codex: Necrons" publicationDate="October 2020" publisherUrl="https://www.games-workshop.com/en-US/Codex-Necrons-2020-ENG"/>
@@ -1194,6 +1194,7 @@
         </entryLink>
         <entryLink id="6744-11ec-d0ce-ddbc" name="Powers of the C&apos;tan" publicationId="61c6-c8c5-pubN65537" hidden="false" collective="false" import="true" targetId="9b2f-f008-3b57-fc1c" type="selectionEntryGroup"/>
         <entryLink id="97ec-9562-f475-6fad" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="014a-f2cf-2ba5-052a" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="25.0"/>
@@ -1943,6 +1944,7 @@
           </constraints>
         </entryLink>
         <entryLink id="5f73-c25d-4816-3901" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="f22d-06df-dfe9-eca2" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="2.0"/>
@@ -2094,6 +2096,7 @@
           </constraints>
         </entryLink>
         <entryLink id="a005-7489-2198-a6f1" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="45ac-4a3f-891e-7c77" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="4.0"/>
@@ -2221,6 +2224,7 @@
           </constraints>
         </entryLink>
         <entryLink id="a4aa-a9cc-ceeb-2ad8" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="40f3-eb27-33ca-2fa3" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="0.0"/>
@@ -2286,6 +2290,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="f93f-0238-8c7f-b778" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="e8a5-8cea-dde1-a6c0" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
@@ -2331,6 +2336,7 @@
           </constraints>
         </entryLink>
         <entryLink id="6d5f-2a93-153f-c06f" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="489f-35a0-5488-6fab" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
@@ -2659,6 +2665,7 @@
           </constraints>
         </entryLink>
         <entryLink id="172f-b880-afd3-ac55" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="c278-dc00-da6e-23b8" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="17.0"/>
@@ -2776,6 +2783,7 @@
         </entryLink>
         <entryLink id="9ad5-b182-3ca9-2be0" name="Random Fractured Personality" hidden="false" collective="false" import="true" targetId="c500-7fde-180e-74ce" type="selectionEntry"/>
         <entryLink id="e167-cd8b-ee87-829c" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="ecc1-b6a6-2b1b-2751" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="14.0"/>
@@ -2908,6 +2916,7 @@
           </constraints>
         </entryLink>
         <entryLink id="961f-d00a-ed87-6d97" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="9b4c-ba35-6573-6023" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="17.0"/>
@@ -2990,6 +2999,7 @@
           </constraints>
         </entryLink>
         <entryLink id="941a-25dc-5b40-a309" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="e3a6-20cc-b2e5-3aa9" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="7.0"/>
@@ -3081,6 +3091,7 @@
           </constraints>
         </entryLink>
         <entryLink id="ec1c-0fcf-f74f-2094" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="4575-298f-9bdd-633c" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="8.0"/>
@@ -3168,6 +3179,7 @@
           </constraints>
         </entryLink>
         <entryLink id="45d1-6511-91cb-c1c2" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="6fb9-d5c2-c795-77aa" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="9.0"/>
@@ -3255,6 +3267,7 @@
           </constraints>
         </entryLink>
         <entryLink id="bba0-08de-2d93-a741" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="fc2a-8942-947b-0f26" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="7.0"/>
@@ -3369,6 +3382,7 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="6ebc-a2c0-e495-1e78" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="6c0b-f190-4686-6ff4" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
@@ -3511,6 +3525,7 @@
           </constraints>
         </entryLink>
         <entryLink id="2402-c41d-a2c6-0eb6" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="b9e0-60ae-9830-25a3" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="7.0"/>
@@ -3778,6 +3793,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="695d-0528-9f51-e810" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="247e-b0a9-25a4-87d7" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="4.0"/>
@@ -3866,6 +3882,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="cd34-7ba8-9f79-3557" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="0d33-a879-3152-48fb" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="7.0"/>
@@ -3907,6 +3924,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="f37e-cb94-d2d3-f5e5" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="d5a1-b8ae-33a9-fed3" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="4.0"/>
@@ -4030,6 +4048,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="73c9-8426-cc37-55c3" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="068b-c7d1-4021-58dc" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="2.0"/>
@@ -4513,6 +4532,7 @@ units can be placed into Strategic Reserves without having to spend any addition
         <entryLink id="d56d-1c27-a44e-fd23" name="Rarefied Nobility" hidden="false" collective="false" import="true" targetId="d928-0c8c-e94a-da67" type="selectionEntry"/>
         <entryLink id="adfe-a49f-ff2c-e260" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="368e-bd2c-a0c8-820d" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="970d-a6ae-12f5-84ad" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="9.0"/>
@@ -4629,6 +4649,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </modifiers>
         </entryLink>
         <entryLink id="b853-34d3-b960-8692" name="Rarefied Nobility" hidden="false" collective="false" import="true" targetId="d928-0c8c-e94a-da67" type="selectionEntry"/>
+        <entryLink id="3835-8226-e85c-82cd" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="07f7-cd9f-7a3c-ea4a" name="Warlord Trait (Codex 3): Immortal Pride" hidden="false" collective="false" import="true" targetId="c9d5-b167-79e1-dd37" type="selectionEntry">
           <modifiers>
             <modifier type="set" field="1ba4-3983-2912-356b" value="0.0">
@@ -4993,6 +5014,7 @@ units can be placed into Strategic Reserves without having to spend any addition
         <entryLink id="871f-0aab-7fcc-2776" name="Rarefied Nobility" hidden="false" collective="false" import="true" targetId="d928-0c8c-e94a-da67" type="selectionEntry"/>
         <entryLink id="d24f-dba4-2127-176c" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="9bc2-7eca-336f-7e57" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="4b13-0be9-14da-293f" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
@@ -5458,6 +5480,7 @@ units can be placed into Strategic Reserves without having to spend any addition
         <entryLink id="8fa4-223c-4a64-d8db" name="Character Stratagems" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="00ed-287b-b347-45eb" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
         <entryLink id="9a0e-58ab-daf0-d9e4" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
+        <entryLink id="d07f-7a97-cc77-1995" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="5.0"/>
@@ -5631,6 +5654,7 @@ units can be placed into Strategic Reserves without having to spend any addition
         <entryLink id="6313-3837-2465-f89b" name="Hand of the Phaeron" hidden="false" collective="false" import="true" targetId="a4a8-0278-c83e-1f19" type="selectionEntry"/>
         <entryLink id="0ab6-44ce-ce20-a8ba" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="476f-bc32-45db-cd1c" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="83b1-c6ff-3cb1-ab86" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
         <entryLink id="4b92-5e73-4987-7d95" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
@@ -5848,6 +5872,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="01b8-3e58-efcd-7a01" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="8949-7ed6-6acc-267b" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
@@ -6071,6 +6096,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="ae8b-e58d-238c-e9fa" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="a269-23b5-d2c9-bd7e" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="8.0"/>
@@ -6143,6 +6169,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="5530-5517-af0e-4daf" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="cbc2-5dd8-4754-e8e9" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="5.0"/>
@@ -6237,6 +6264,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="82fa-7c06-7b56-eae2" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="0670-e9ab-0515-5e9c" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="24.0"/>
@@ -6403,6 +6431,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="5dee-75f8-d48c-c708" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="4215-bb34-b3be-bdd0" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="9.0"/>
@@ -6489,6 +6518,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="2de1-def7-2452-04e9" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="ea3a-f911-69ce-7100" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
@@ -7093,6 +7123,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="f5cb-0d1e-c474-6bd2" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="9016-841c-d826-483d" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="7.0"/>
@@ -7130,6 +7161,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="63d3-ccf9-7274-f1f2" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="9ab2-aacf-253f-b433" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="0.0"/>
@@ -8865,7 +8897,8 @@ units can be placed into Strategic Reserves without having to spend any addition
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d4ae-fc5c-ab1f-0ff4" type="min"/>
           </constraints>
         </entryLink>
-        <entryLink id="4eb4-4505-c4a9-7056" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="c3cc-211b-90f3-0674" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="4eb4-4505-c4a9-7056" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="600.0"/>
@@ -9101,6 +9134,7 @@ units can be placed into Strategic Reserves without having to spend any addition
         <entryLink id="5069-c034-b979-f5ca" name="Cryptek Arkana" hidden="false" collective="false" import="true" targetId="88d4-8285-bf83-d393" type="selectionEntryGroup"/>
         <entryLink id="c520-7539-d57d-cb6e" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="216b-b765-2a05-663b" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="c0ea-1660-f092-bd2c" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
         <entryLink id="3b84-9775-77f1-269d" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
@@ -9211,6 +9245,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="7f07-5741-1a39-b527" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="2c24-a0ac-e801-cf3c" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="4.0"/>
@@ -9376,6 +9411,7 @@ units can be placed into Strategic Reserves without having to spend any addition
           </constraints>
         </entryLink>
         <entryLink id="3946-5852-1a10-c476" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="a1d2-9933-41d6-b1c6" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="4.0"/>
@@ -9565,6 +9601,7 @@ units can be placed into Strategic Reserves without having to spend any addition
         <entryLink id="26ea-c540-d3f4-77c6" name="Rarefied Nobility" hidden="false" collective="false" import="true" targetId="d928-0c8c-e94a-da67" type="selectionEntry"/>
         <entryLink id="dfba-345a-48bc-1463" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="3d1e-6635-eab3-76d7" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="8f75-fa50-51e2-568f" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
         <entryLink id="01ec-a8cc-3b21-7fed" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
@@ -9698,6 +9735,7 @@ units can be placed into Strategic Reserves without having to spend any addition
         <entryLink id="c6f6-d2a8-11ce-3f26" name="Rarefied Nobility" hidden="false" collective="false" import="true" targetId="d928-0c8c-e94a-da67" type="selectionEntry"/>
         <entryLink id="c00d-7471-9c51-d39a" name="Character Stratagems" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="9830-2fee-d81e-ba12" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="b541-3d3b-d6f4-11d2" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
         <entryLink id="1f0f-2ed4-8f54-f5b9" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
@@ -9826,6 +9864,7 @@ units can be placed into Strategic Reserves without having to spend any addition
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="9cd2-6e5e-9443-4ad7" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="1435-647d-3605-4c09" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="0.0"/>
@@ -11281,6 +11320,7 @@ In addition, each time an enemy CHARACTER unit is destroyed by a melee attack ma
         <entryLink id="2591-85bd-d502-ac1c" name="Cryptek Arkana" hidden="false" collective="false" import="true" targetId="88d4-8285-bf83-d393" type="selectionEntryGroup"/>
         <entryLink id="714e-d63b-be4f-a459" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="641c-ec1c-3621-9672" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="7460-0310-26a0-dec1" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
         <entryLink id="0933-7dc1-6be6-4d5c" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
@@ -11929,6 +11969,7 @@ Directive 2: This unit is eligible to shoot in a turn in which it Fell Back, but
         <entryLink id="f560-f2eb-eb0e-4a52" name="Cryptek Arkana" hidden="false" collective="false" import="true" targetId="88d4-8285-bf83-d393" type="selectionEntryGroup"/>
         <entryLink id="1742-b568-316e-e57c" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="b3ea-0149-bd4b-71cb" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="4e9f-60e3-0a7e-d725" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
         <entryLink id="6360-13bd-7eac-93bd" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
@@ -12015,6 +12056,7 @@ Directive 2: This unit is eligible to shoot in a turn in which it Fell Back, but
         <entryLink id="41f9-faca-fd30-4754" name="Cryptek Arkana" hidden="false" collective="false" import="true" targetId="88d4-8285-bf83-d393" type="selectionEntryGroup"/>
         <entryLink id="b3bb-c171-844b-2a16" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="ce3b-2581-336f-d08c" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="b7a2-8f82-e069-4bf4" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
         <entryLink id="18d8-e1a7-92ea-a164" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
@@ -12118,6 +12160,7 @@ Directive 2: This unit is eligible to shoot in a turn in which it Fell Back, but
         </entryLink>
         <entryLink id="10d9-bf51-528c-3fdf" name="War Zone Nephilim" hidden="false" collective="false" import="true" targetId="d5b7-852a-c927-2d90" type="selectionEntryGroup"/>
         <entryLink id="4098-3ee0-58bb-8edd" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="efa9-7582-1cc0-e949" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
         <entryLink id="0209-98f9-14ab-d556" name="Boarding Action Enhancements" hidden="false" collective="false" import="true" targetId="4c50-9343-b5fb-872d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
@@ -12305,6 +12348,7 @@ Directive 2: This unit is eligible to shoot in a turn in which it Fell Back, but
           </constraints>
         </entryLink>
         <entryLink id="5f60-acb5-b0ff-3934" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="c8d8-2bdb-a43d-4e07" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="4.0"/>
@@ -12499,6 +12543,7 @@ Directive 2: This unit is eligible to shoot in a turn in which it Fell Back, but
           </constraints>
         </entryLink>
         <entryLink id="bfbc-e37b-4c2c-1527" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="4b63-dca4-578a-6df7" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="7.0"/>
@@ -12933,6 +12978,7 @@ Directive 2: This unit is eligible to shoot in a turn in which it Fell Back, but
           </constraints>
         </entryLink>
         <entryLink id="89ce-5984-1b37-1c8f" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="6160-a18d-5c47-c274" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="1.0"/>
@@ -12993,6 +13039,7 @@ Directive 2: This unit is eligible to shoot in a turn in which it Fell Back, but
           </constraints>
         </entryLink>
         <entryLink id="6f54-cd37-f081-9364" name="Battle Honours" hidden="false" collective="false" import="true" targetId="20a7-2e42-4c73-9844" type="selectionEntryGroup"/>
+        <entryLink id="33c8-02b7-86ee-9bf7" name="Battle Scars" hidden="false" collective="false" import="true" targetId="7904-da0c-f3ec-3e1d" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="2.0"/>
@@ -13824,7 +13871,7 @@ Once per battle, before making a saving throw for the bearer, it can activate th
         <entryLink id="ab70-10fa-c94b-736a" name="Dynasty: &lt;Custom&gt;" hidden="false" collective="false" import="true" targetId="56dd-f1e1-5dcb-f538" type="selectionEntry"/>
         <entryLink id="a31b-deb0-2d05-863e" name="Dynasty: Maynarkh" hidden="false" collective="false" import="true" targetId="e552-6548-b984-1da6" type="selectionEntry"/>
         <entryLink id="269e-7125-5e4d-78b0" name="Dynasty: Novokh" hidden="false" collective="false" import="true" targetId="9c06-82d0-11f1-04da" type="selectionEntry"/>
-        <entryLink id="f52d-c9d8-a311-70bd" name="Army of Reknown: Cult of the Cryptek" hidden="false" collective="false" import="true" targetId="7fcd-553a-a403-3e5d" type="selectionEntry"/>
+        <entryLink id="f52d-c9d8-a311-70bd" name="Army of Renown: Cult of the Cryptek" hidden="false" collective="false" import="true" targetId="7fcd-553a-a403-3e5d" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
     <selectionEntryGroup id="05ab-527d-32b4-fe08" name="Dynastic Traditions" publicationId="61c6-c8c5-pubN65537" hidden="false" collective="false" import="true">
@@ -13972,9 +14019,16 @@ Once per battle, before making a saving throw for the bearer, it can activate th
     <selectionEntryGroup id="20a7-2e42-4c73-9844" name="Battle Honours" hidden="false" collective="false" import="true">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
-          <conditions>
-            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="2aee-51b0-2b2b-218d" type="lessThan"/>
-          </conditions>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="2aee-51b0-2b2b-218d" type="lessThan"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7a53-eedc-8dbb-8505" type="instanceOf"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7892-58f7-e769-4d87" type="instanceOf"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="d713cda3-5d0f-40d8-b621-69233263ec2a" type="instanceOf"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
         </modifier>
       </modifiers>
       <selectionEntryGroups>
@@ -14247,6 +14301,7 @@ Once per battle, before making a saving throw for the bearer, it can activate th
                     <selectionEntry id="20a1-4b45-6b65-8584" name="Necroexcruciator" hidden="false" collective="false" import="true" type="upgrade">
                       <constraints>
                         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f66d-8ecd-4cbe-a744" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="c4cd-c96d-c0b3-85ed" type="max"/>
                       </constraints>
                       <profiles>
                         <profile id="d3f1-0286-ed87-a5f3" name="Necroexcruciator" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
@@ -14269,6 +14324,7 @@ Once per battle, before making a saving throw for the bearer, it can activate th
                     <selectionEntry id="8c8e-6e9b-570e-64f5" name="Tachyon Field Phase Inducer" hidden="false" collective="false" import="true" type="upgrade">
                       <constraints>
                         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a9ce-a38b-bf12-1c74" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="f43b-70cc-6c24-ce5c" type="max"/>
                       </constraints>
                       <profiles>
                         <profile id="81f4-e5b5-36eb-5145" name="Tachyon Field Phase Inducer" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
@@ -14292,6 +14348,7 @@ addition to any normal damage.
                     <selectionEntry id="7ec5-9ff9-3125-254c" name="Transdimensional Shroud" hidden="false" collective="false" import="true" type="upgrade">
                       <constraints>
                         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3798-b5ba-5148-b880" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="35fc-bb58-8682-4767" type="max"/>
                       </constraints>
                       <profiles>
                         <profile id="2f18-a677-1d81-80cc" name="Transdimensional Shroud" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
@@ -14310,6 +14367,7 @@ making the attack may have.</characteristic>
                     <selectionEntry id="6dfc-a0ff-06a0-4198" name="Engrammatic Entangler" hidden="false" collective="false" import="true" type="upgrade">
                       <constraints>
                         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bcbe-9fa6-77e8-e6ca" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="19bd-32f7-5264-e349" type="max"/>
                       </constraints>
                       <profiles>
                         <profile id="e055-b8ba-9e8f-0978" name="Engrammatic Entangler" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
@@ -14602,9 +14660,967 @@ are automatically passed</characteristic>
             </selectionEntryGroup>
           </selectionEntryGroups>
         </selectionEntryGroup>
+        <selectionEntryGroup id="693c-a885-e72b-c007" name="Battle Honours (White Dwarf)" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="bff8-9217-68b5-87c1" name="Battle Traits" hidden="false" collective="false" import="true">
+              <selectionEntryGroups>
+                <selectionEntryGroup id="ad0b-e3e6-99ef-31bb" name="Triarch Praetorians" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="8bc0-df6f-0e3f-7410" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="02fd-4724-c9df-18ea" name="1. Protection Engrams" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f75c-8bbe-d5fe-6eb7" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="156b-22c8-5940-dcec" name="1. Protection Engrams" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While this unit is within range of any objective markers, each time a model in this unit makes an attack, add 1 to that attack’s hit roll.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="c8b2-5011-35c0-0719" name="2. Masters of Blades" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c586-2340-6601-b331" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="eca3-0dba-e867-6cd0" name="2. Masters of Blades" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a model in this unit makes a melee attack, an unmodified hit roll of 6 scores 1 additional hit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="010f-d6b6-e872-df82" name="3. Resilient Defenders" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="41cd-36fc-047e-1886" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="e517-01c5-67e6-3291" name="3. Resilient Defenders" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While this unit is within range of any objective markers, add 1 to the Toughness characteristic of models in this unit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="9589-2c8e-0f4f-53b5" name="Flayed Ones" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="96eb-eb3c-9a92-930f" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="8492-846d-cb10-398e" name="1-2. Shadow Creepers" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d5d4-711e-c148-102a" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="15d6-d48e-5197-df0a" name="1-2. Shadow Creepers" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Once per battle, when this unit is selected for the Shadows of Drazak or Storm of Flensing Blades Stratagems, that Stratagem costs 0CP.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="f117-2d78-4692-3b65" name="3-4. Methodical Flensers" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6056-7533-60b9-11f3" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="38d9-4fba-1a6e-8ab6" name="3-4. Methodical Flensers" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Improve the Weapon Skill characteristic of models in this unit by 1.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="5539-aa4b-6037-3969" name="5-6. Horrific Stalkers (Aura)" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0192-ac5e-2323-d2fa" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="b6a2-4890-9fe5-769b" name="5-6. Horrific Stalkers (Aura)" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While an enemy unit is within 6&quot; of this unit, that enemy unit loses the Objective Secured ability.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="cb8b-fefc-64fd-bcb9" name="Destroyer Cult" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="0ad7-1f84-c52c-ff8c" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="b84c-2e32-6d85-1716" name="1. Extermination Overrides" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="862a-b1bc-4df4-a258" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="4120-140f-49fb-d995" name="1. Extermination Overrides" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a model in this unit makes an attack, on an unmodified wound roll of 6, add 1 to the Damage characteristic of that attack.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="9619-c028-bc17-fdbf" name="2. Reanimation Overdrive Protocols" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f3c3-1dba-4429-923d" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="7936-3b3f-19f8-294a" name="2. Reanimation Overdrive Protocols" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time you make a Reanimation Protocol roll for this unit, you can change a single dice result to a 6.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="e7db-7594-b224-2c70" name="3. Spectacular Overkill" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b388-fe2d-3c77-197f" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="fc83-018f-eda2-5df5" name="3. Spectacular Overkill" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">This unit has the following ability:
+Spectacular Overkill (Aura): While an enemy unit is within 6&quot; of this unit:
+Subtract 1 from the Leadership characteristic of models in that enemy unit.
+Subtract 1 from Combat Attrition tests taken for that enemy unit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="e06f-fc21-ae34-b87d" name="Titanic" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="bdda-36f0-4f32-1639" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="cbb7-896a-a831-b7a7" name="1. Harbinger of Doom" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ba18-703b-bb72-c9a5" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="635f-42f4-dfd2-90ac" name="1. Harbinger of Doom" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">This unit is considered to have double the number of wounds remaining for the purposes of determining what its characteristics are and for the purposes of determining how many Powers of the C’tan it can use.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="b4a4-f74a-ad71-0c44" name="2. Actinic Energies" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c7d3-ce94-a961-dd4f" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="58ae-086f-da1e-551b" name="2. Actinic Energies" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a ranged attack is made against this model, an unmodified wound roll of 1-3 for that attack fails, irrespective of any abilities that the weapon or the model making the attack may have.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="d907-cd1b-430a-c9c9" name="3. Empyric Designators" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e84-3c06-0002-40b3" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="d8d9-8693-6ffb-5050" name="3. Empyric Designators" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time this model makes a ranged attack, if another &lt;DYNASTY&gt; unit from your army made an attack against the same target this turn, add 1 to that attack’s hit roll.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="8d88-3b6d-3eeb-2405" name="Szarekhan" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="dac7-360f-5fb2-5092" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="fe8a-2c1a-ef79-7009" name="1. King’s Executioners" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="59f3-b124-7ac2-6835" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="41df-113d-a3f7-1c1f" name="1. King’s Executioners" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a model in this unit makes an attack that targets an enemy CHARACTER unit, add 1 to that attack’s wound roll.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="1f40-7fbc-54ab-34e2" name="2. Trophy Killers" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8314-7ac1-ceab-3c27" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="affd-9f62-e9d7-0ea0" name="2. Trophy Killers" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">At the end of the battle, if this unit has destroyed one or more enemy units with a Power Rating that is at least double the Power Rating of this unit, this unit is also Marked for Greatness.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="91d3-5420-abdc-369f" name="3. Enhanced Counter-empyric Fields" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8320-98df-d389-a7b9" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="ddfc-464d-790d-e4ad" name="3. Enhanced Counter-empyric Fields" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Once per battle, when an enemy PSYKER unit within 18&quot; of this unit attempts to manifest a psychic power, you can use the Empyric Damping Stratagem for 0CP.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="5b18-1987-08d6-22ad" name="Sautekh" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="f6ea-beff-a150-f095" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="89e5-e2ab-2690-aab3" name="1. Aggressive Nominators" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b3ae-dd29-f4f9-bb3a" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="be8e-eed8-9030-eaf3" name="1. Aggressive Nominators" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While this unit is within your opponent’s deployment zone, it has the Objective Secured ability. If this unit already has the Objective Secured ability, then for the purposes of determining which player controls an objective marker, each model in this unit counts as two models.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="7c40-599c-f238-8e71" name="2. Favour of the Crypteks" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="da12-81b2-92e9-c8a0" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="26a4-d7f5-607f-1842" name="2. Favour of the Crypteks" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a model in this unit makes an attack, improve the Armour Penetration characteristic of that attack by 1.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="cb6a-0fc2-9062-9f10" name="3. Systematic Slayers" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1429-7634-b1b9-b9a8" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="c6df-cfd4-5706-e69b" name="3. Systematic Slayers" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time you use the Methodical Destruction Stratagem, if you select this unit for that Stratagem, reduce the CP cost of that Stratagem by 1CP. Note that the CP cost is only reduced by 1CP for that use of the Stratagem, any future usages of it cost the normal amount of CPs.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="0385-aac4-3912-fbaf" name="Mephrit" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="e860-5285-0bbf-beda" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="4413-c7f5-fa31-6527" name="1. Allies of the Crypteks" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6d14-8b10-6308-b64c" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="3418-74f0-fc0d-4daa" name="1. Allies of the Crypteks" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">You can re-roll Out of Action tests taken for this unit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="a860-c135-a4ef-8950" name="2. Distasteful Deeds" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f9a7-c4d8-8dee-be3c" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="cc3c-edb5-0ade-0f10" name="2. Distasteful Deeds" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While an enemy unit is within 3&quot; of this unit, subtract 2 from the Leadership characteristic of models in that enemy unit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="ab19-260e-741e-b9db" name="3. Callous Annihilators" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3ef7-45fe-441a-3c88" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="84a1-c1e3-1575-0925" name="3. Callous Annihilators" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time you use the Talent for Annihilation Stratagem, if you select this unit for that Stratagem, reduce the CP cost of that Stratagem by 1CP. Note that the CP cost is only reduced by 1CP for that use of the Stratagem, any future usages of it cost the normal amount of CPs.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="afa3-a13f-a57d-9426" name="Novokh" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="9c06-82d0-11f1-04da" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="a0fd-ba69-2e1f-2e92" name="1. Savage Horrors (Aura)" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2556-6035-eaf6-6101" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="28d8-fb69-4cd1-7ee9" name="1. Savage Horrors (Aura)" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While an enemy unit is within 6&quot; of this unit, subtract 1 from the Leadership characteristic of models in that unit and subtract 1 from Combat Attrition tests taken for that unit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="1a86-b919-b796-d55f" name="2. Callous Exsanguinators" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="30f4-0d99-028f-ebf7" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="16d9-0136-e5ff-4664" name="2. Callous Exsanguinators" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a model in this unit makes a melee attack, on an unmodified wound roll of 6, add 1 to the Damage characteristic of that attack.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="e5a4-a414-1ed7-79a9" name="3. Blood-Coated" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cdc0-afd0-4104-5ba8" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="b6b6-88ca-ef73-1dc4" name="3. Blood-Coated" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time you use the Blood Rites Stratagem, if you select this unit for that Stratagem, reduce the CP cost of that Stratagem by 1CP. Note that the CP cost is only reduced by 1CP for that use of the Stratagem, any future usages of it cost the normal amount of CPs.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="35ec-df1d-f9a2-3d60" name="Nihilakh" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="3638-3056-c9ea-5d82" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="8688-43ca-a0e0-bd60" name="1. Masters of Defence" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="518d-4a86-a650-14f1" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="876a-af6e-55a2-8fd7" name="1. Masters of Defence" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time this unit is selected to fight, if it is receiving the benefits of cover from an Obstacle or Area Terrain feature, until that fight is resolved, add 1 to the Attacks characteristic of models in this unit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="d5b4-6282-5297-8d87" name="2. Optimised Repair Protocols" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="414a-04ef-c000-8ce8" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="907e-06a4-5908-54a4" name="2. Optimised Repair Protocols" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While this unit is wholly within your deployment zone, each time you make a Reanimation Protocol roll for this unit, each dice result of a 6 counts as one additional successful roll.
+If this unit has the Living Metal ability, each time an attack is allocated to a model in this unit, subtract 1 from the Damage characteristic of that attack (to a minimum of 1).</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="beee-2900-30fb-c20f" name="3. Dread Reclaimers" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="06d3-36ad-1d0d-f4b7" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="cf24-8473-de80-295b" name="3. Dread Reclaimers" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time you use the Reclaim a Lost Empire Stratagem, if you select this unit for that Stratagem, reduce the CP cost of that Stratagem by 1CP. Note that the CP cost is only reduced by 1CP for that use of the Stratagem, any future usages of it cost the normal amount of CPs.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="9512-d6f6-5115-7af2" name="Nephrekh" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="93ce-b4b2-9433-b1e6" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="82e4-992b-9fda-4f50" name="1. Elite Translocators" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d6cd-33ab-7493-500d" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="216d-41a1-dfd7-9db5" name="1. Elite Translocators" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time this unit translocates, add 9&quot; to the Move characteristic of models in this unit instead of 6&quot;.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="b6b0-66f9-dac9-e47d" name="2. Swift Transmutation" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d1c9-6246-e333-a3a6" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="24cb-2fa9-bd7e-7c79" name="2. Swift Transmutation" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a ranged attack targets this unit, if the attacker is more than 12&quot; away, subtract 1 from that attack’s hit roll.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="82db-4096-03f9-5ee1" name="3. Masters of Light" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e0b0-f507-3ca3-3288" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="4da4-471e-462d-89a0" name="3. Masters of Light" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time you use the Translocation Crypt Stratagem, if you select this unit for that Stratagem, reduce the CP cost of that Stratagem by 1CP. Note that the CP cost is only reduced by 1CP for that use of the Stratagem, any future usages of it cost the normal amount of CPs.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="d7ab-7382-7429-6dc9" name="Crusade Relics" hidden="false" collective="false" import="true">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditionGroups>
+                    <conditionGroup type="or">
+                      <conditions>
+                        <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="e552-6548-b984-1da6" type="greaterThan"/>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="ef18-746a-369f-43a4" type="notInstanceOf"/>
+                        <condition field="selections" scope="force" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="56dd-f1e1-5dcb-f538" type="greaterThan"/>
+                      </conditions>
+                    </conditionGroup>
+                  </conditionGroups>
+                </modifier>
+              </modifiers>
+              <selectionEntryGroups>
+                <selectionEntryGroup id="1539-4a40-5a05-e285" name="Artificer Relics" hidden="false" collective="false" import="true">
+                  <selectionEntries>
+                    <selectionEntry id="5275-33d1-2a21-6fb6" name="Stormshroud" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditions>
+                            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="f6ea-beff-a150-f095" type="lessThan"/>
+                          </conditions>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e809-c727-c476-3465" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="081c-15c9-c59e-a929" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="653c-b006-00e2-0104" name="Stormshroud" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time the bearer makes a melee attack, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="f902-54de-9561-9420" name="Yth Engrams" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditions>
+                            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="3638-3056-c9ea-5d82" type="lessThan"/>
+                          </conditions>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="37a5-3dd5-c410-f7da" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="f5f8-9444-fd03-60b2" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="5a69-c708-f5a5-0e12" name="Yth Engrams" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">In your Command phase, if the bearer is on the battlefield, roll one D6: on a 5+, gain 1 Command point.
+Once per turn, you can re-roll one hit roll or re-roll one wound roll made for the bearer.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="c600-0890-5149-28f7" name="Dominance Scythe" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditionGroups>
+                            <conditionGroup type="or">
+                              <conditions>
+                                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="e860-5285-0bbf-beda" type="lessThan"/>
+                                <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="db75-f4e0-3df1-7701" type="lessThan"/>
+                              </conditions>
+                            </conditionGroup>
+                          </conditionGroups>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="65fc-ea86-ee19-3d90" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="1bbe-6419-02ab-6eed" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="009a-d4da-f9b1-8be1" name="Dominance Scythe" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+                          <characteristics>
+                            <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+                            <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee</characteristic>
+                            <characteristic name="S" typeId="59b1-319e-ec13-d466">+2</characteristic>
+                            <characteristic name="AP" typeId="75aa-a838-b675-6484">-4</characteristic>
+                            <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">3</characteristic>
+                            <characteristic name="Abilities" typeId="837d-5e63-aeb7-1410">Each time an attack is made with this weapon against an enemy WARLORD, add 1 to that attack’s wound roll.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="2b91-d34d-21cf-ccf8" name="Bloodshroud" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditions>
+                            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="9c06-82d0-11f1-04da" type="lessThan"/>
+                          </conditions>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="91dc-dd2c-9463-2d01" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="547f-60c3-4b40-20f1" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="d31a-5ccb-5f69-5952" name="Bloodshroud" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">At the start of the Fight phase, roll one D6 for each enemy unit within 3&quot; of the bearer: on a 3+, that unit suffers 1 mortal wound.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="43dd-93a7-3d38-c629" name="Domination Stave" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditions>
+                            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="dac7-360f-5fb2-5092" type="lessThan"/>
+                          </conditions>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9bb8-810a-9a2a-e237" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="fb7d-0e6a-5036-0802" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="3d93-da6d-81f7-1d78" name="Domination Stave" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">At the start of the Fight phase, you can select one enemy unit that is within Engagement Range of the bearer. That enemy unit is not eligible to fight this phase until after all eligible units from your army have done so.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                    <selectionEntry id="4d03-3702-316e-34da" name="Starfire Mantle" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditions>
+                            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="93ce-b4b2-9433-b1e6" type="lessThan"/>
+                          </conditions>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b489-ba1d-6922-9078" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="a891-cb9e-d323-bc8e" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="d7dd-42ef-2df4-d723" name="Starfire Mantle" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">The bearer is still eligible to shoot in a turn in which it translocates.
+Each time the bearer translocates, if it moves across any enemy units, roll one D6 for each of those units: on a 5+, that unit suffers D3 mortal wounds.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <costs>
+                        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                        <cost name="pts" typeId="points" value="0.0"/>
+                      </costs>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="9926-ff73-bffd-7141" name="Battle Honours (Crusade - BRB)" hidden="false" collective="false" import="true" targetId="3219-c04d-a4d0-69ef" type="selectionEntryGroup"/>
+      </entryLinks>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="7904-da0c-f3ec-3e1d" name="Battle Scars" hidden="false" collective="false" import="true">
+      <modifiers>
+        <modifier type="set" field="hidden" value="true">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="2aee-51b0-2b2b-218d" type="lessThan"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7a53-eedc-8dbb-8505" type="instanceOf"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7892-58f7-e769-4d87" type="instanceOf"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="d713cda3-5d0f-40d8-b621-69233263ec2a" type="instanceOf"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="99bc-34c8-23df-9691" name="Battle Scars (Codex)" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="af4d-3a59-345f-4c8b" name="Canoptek Units" hidden="false" collective="false" import="true">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="accb-e3d8-1193-10cc" type="notInstanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <selectionEntries>
+                <selectionEntry id="96e8-6097-096c-c87d" name="Depleted Transmaterial Reserves" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="278e-15b5-b2cb-51ed" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="53cb-7719-0240-027c" name="Depleted Transmaterial Reserves" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Add 1 to the Attacks characteristic of models in this unit.
+This unit cannot use its Reanimation Protocols and Living Metal abilities.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                    <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="cf83-7034-3415-973d" name="Destroyer Cult Units" hidden="false" collective="false" import="true">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="0ad7-1f84-c52c-ff8c" type="notInstanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <selectionEntries>
+                <selectionEntry id="8fb7-c51a-578a-a84a" name="Mindless Reaper" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f7dd-eae6-3074-f4c9" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="55d9-f6bc-86af-d00e" name="Mindless Reaper" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">When a model in this unit makes an attack, you can re-roll the hit roll.
+In your Shooting phase, each time this unit is selected to shoot, models in this unit can only target the closest eligible enemy unit.
+In your Charge phase, each time this unit declares a charge, you can only select the closest enemy unit (excluding AIRCRAFT) as the target of that charge.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                    <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="a36a-75e0-3718-1e6c" name="Noble Units" hidden="false" collective="false" import="true">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="60f3-194a-d96a-689c" type="notInstanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <selectionEntries>
+                <selectionEntry id="dd9d-a433-9347-b70c" name="Creeping Madness" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="896a-02d1-db9c-563a" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="6dda-5a9d-8222-ded8" name="Creeping Madness" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Add 1 to the Strength and Attacks characteristics of models in this unit.
+This unit is not considered to be a NOBLE or CHARACTER unit for the purposes of the Command Protocols ability, and no longer has the following abilities: My Will Be Done; The Lord&apos;s Will.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                    <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="f885-56be-bf7e-6cc9" name="Non C&apos;tan Shard Units" hidden="false" collective="false" import="true">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="f9fc-440b-8d07-a569" type="instanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <selectionEntries>
+                <selectionEntry id="cee2-f575-1ca9-82e8" name="Engrammatic Degradation" hidden="false" collective="false" import="true" type="upgrade">
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7633-72b2-6802-684b" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="cae9-2b6c-0990-efe5" name="Engrammatic Degradation" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Subtract 1&quot; from the Move characteristic of models in this unit.
+Subtract 1 from Advance and charge rolls made for this unit.
+This unit always benefits from the selected directive of the command protocol that was active for your army during the first battle round, instead of the selected directive of the command protocol that is currently active for your army.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <costs>
+                    <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+                    <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                    <cost name="pts" typeId="points" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <entryLinks>
+        <entryLink id="a602-43e7-5e18-c89e" name="Battle Scars" hidden="false" collective="false" import="true" targetId="cec4-9abd-dcdb-c9c2" type="selectionEntryGroup"/>
       </entryLinks>
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
