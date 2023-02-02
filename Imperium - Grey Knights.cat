@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="0cc2-3545-6762-a3f7" name="Imperium - Grey Knights" revision="116" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Tekton" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="238" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="0cc2-3545-6762-a3f7" name="Imperium - Grey Knights" revision="117" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Tekton" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="244" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
-    <publication id="0cc2-3545-pubN112001" name="Codex: Grey Knights"/>
+    <publication id="0cc2-3545-pubN112001" name="Codex: Grey Knights" shortName="Grey Knights" publisher="Codex: Grey Knights" publicationDate="August 2021" publisherUrl="https://www.games-workshop.com/en-US/codex-grey-knights-hb-2021-eng"/>
+    <publication id="116a-d243-541d-1b90" name="Hexfire Boxset" shortName="Hexfire" publisher="Hexfire Boxset" publicationDate="August 2021"/>
   </publications>
   <categoryEntries>
     <categoryEntry id="31b6-b037-4c7a-f850" name="Faction: Grey Knights" hidden="false"/>
@@ -807,6 +808,8 @@
           </constraints>
         </entryLink>
         <entryLink id="05da-7b0a-b566-483b" name="Brotherhood Psyker Power" hidden="false" collective="false" import="true" targetId="d6ae-fe14-202c-6351" type="selectionEntry"/>
+        <entryLink id="98e7-61e7-3617-9280" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="2471-84be-faeb-a897" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
@@ -988,6 +991,8 @@
         <entryLink id="0467-84c4-6f63-a16a" name="Brotherhood Psyker Power" hidden="false" collective="false" import="true" targetId="d6ae-fe14-202c-6351" type="selectionEntry"/>
         <entryLink id="a54b-0a12-5060-4733" name="Exemplar of the Silver Host" hidden="false" collective="false" import="true" targetId="c600-ecd5-4877-8d99" type="selectionEntry"/>
         <entryLink id="1360-38d3-3c5a-1840" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="9a0f-81bc-aaa8-1b21" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="65aa-2e6a-4cef-7fa4" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="100.0"/>
@@ -1172,6 +1177,8 @@
         <entryLink id="1856-0751-cdcf-9439" name="Shield of Humanity" hidden="false" collective="false" import="true" targetId="77cb-2eca-58ad-5616" type="selectionEntry"/>
         <entryLink id="eda1-e997-e550-8b26" name="Exemplar of the Silver Host" hidden="false" collective="false" import="true" targetId="c600-ecd5-4877-8d99" type="selectionEntry"/>
         <entryLink id="83a8-1990-7143-b6a7" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="e520-f4d0-82ae-10ab" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="b758-f2e3-7b14-a5eb" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="5.0"/>
@@ -1384,6 +1391,8 @@
         <entryLink id="dc59-51f6-9a4e-c647" name="Shield of Humanity" hidden="false" collective="false" import="true" targetId="77cb-2eca-58ad-5616" type="selectionEntry"/>
         <entryLink id="31b5-2ecf-68fc-4f85" name="Exemplar of the Silver Host" hidden="false" collective="false" import="true" targetId="c600-ecd5-4877-8d99" type="selectionEntry"/>
         <entryLink id="3916-fd43-a2bb-ed58" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="315b-eacc-05cb-7938" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="1473-dc3c-a1e3-9a6a" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="60.0"/>
@@ -1561,6 +1570,8 @@
         <entryLink id="8bc9-fd4a-0749-c75a" name="Exemplar of the Silver Host" hidden="false" collective="false" import="true" targetId="c600-ecd5-4877-8d99" type="selectionEntry"/>
         <entryLink id="9fdd-0b77-daaf-40e0" name="Brotherhood Psyker Power" hidden="false" collective="false" import="true" targetId="d6ae-fe14-202c-6351" type="selectionEntry"/>
         <entryLink id="e856-21af-fca0-1e9b" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="9f52-b7f0-1b4a-eacc" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="767f-9d39-465c-cca0" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="120.0"/>
@@ -1621,6 +1632,28 @@
         <categoryLink id="8b93-ecc8-d587-7f52" name="Wardmakers" hidden="false" targetId="bb42-0f99-3913-936c" primary="false"/>
         <categoryLink id="3125-5b69-e254-7cf7" name="Wardmakers Grand Master" hidden="false" targetId="7bb9-e306-4cce-f09w" primary="false"/>
       </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="11a1-5eb6-1c76-b127" name="Warden of the Librarius" hidden="false" collective="false" import="true" type="upgrade">
+          <modifiers>
+            <modifier type="set" field="hidden" value="true">
+              <conditions>
+                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="2aee-51b0-2b2b-218d" type="lessThan"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1e40-f001-0b3f-a078" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0981-c217-87b3-57e3" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="3885-7c25-e857-ffcf" name="Warden of the Librarius" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this GRAND MASTER is part of your Crusade force, then the Psychic Meditations Requisition costs 0 Requisition points if the unit selected is a GREY KNIGHTS PSYKER unit.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+        </selectionEntry>
+      </selectionEntries>
       <entryLinks>
         <entryLink id="ead5-008f-0a2b-6e2e" name="Frag &amp; Krak grenades" hidden="false" collective="false" import="true" targetId="cddf-945e-1335-e681" type="selectionEntry">
           <constraints>
@@ -1952,6 +1985,8 @@
         </entryLink>
         <entryLink id="4548-ffad-99ef-0d2f" name="Has Battle Honours" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
         <entryLink id="0491-1d60-0c6b-ebff" name="Brotherhood Psyker Power" hidden="false" collective="false" import="true" targetId="d6ae-fe14-202c-6351" type="selectionEntry"/>
+        <entryLink id="6bff-6643-97e5-cee3" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="5147-d739-2e31-e439" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="8.0"/>
@@ -2190,6 +2225,8 @@
           </constraints>
         </entryLink>
         <entryLink id="93e3-d9f5-2378-e252" name="Brotherhood Psyker Power" hidden="false" collective="false" import="true" targetId="d6ae-fe14-202c-6351" type="selectionEntry"/>
+        <entryLink id="2f66-5254-d404-6897" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="d9cc-b3db-6eb3-386d" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="11.0"/>
@@ -2514,6 +2551,8 @@
           </constraints>
         </entryLink>
         <entryLink id="e722-bcc6-70d7-6d18" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="2654-c735-c913-6c65" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="23fc-4fdc-46bd-1f24" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="7.0"/>
@@ -2672,6 +2711,8 @@
           </constraints>
         </entryLink>
         <entryLink id="63cc-2fa1-e77c-b685" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="8629-155d-ed51-c220" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="e23f-315c-edec-3224" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
@@ -2951,6 +2992,8 @@
           </constraints>
         </entryLink>
         <entryLink id="97e3-1594-0d57-f03a" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="bbe2-388c-73f0-a476" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="20af-7c54-a598-815e" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="13.0"/>
@@ -3029,6 +3072,8 @@
         <entryLink id="0bc5-a70c-f956-b714" name="Shield of Humanity" hidden="false" collective="false" import="true" targetId="77cb-2eca-58ad-5616" type="selectionEntry"/>
         <entryLink id="0625-b318-7202-d262" name="Exemplar of the Silver Host" hidden="false" collective="false" import="true" targetId="c600-ecd5-4877-8d99" type="selectionEntry"/>
         <entryLink id="a075-4081-04bc-0f38" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="97d0-407e-566c-f5a8" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="fc1c-bb31-0015-7224" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
@@ -3308,6 +3353,8 @@
         </entryLink>
         <entryLink id="364c-e069-dd5e-6b8a" name="Has Battle Honours" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
         <entryLink id="6ea9-2d38-7749-20f9" name="Brotherhood Psyker Power" hidden="false" collective="false" import="true" targetId="d6ae-fe14-202c-6351" type="selectionEntry"/>
+        <entryLink id="c4ef-d0f6-2a95-b679" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="9d08-77f2-5960-00ce" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
@@ -3442,6 +3489,8 @@
         </entryLink>
         <entryLink id="2544-7d07-4ee5-93be" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
         <entryLink id="5648-b3e7-bda8-a8db" name="Brotherhood Psyker Power" hidden="false" collective="false" import="true" targetId="d6ae-fe14-202c-6351" type="selectionEntry"/>
+        <entryLink id="6050-f46d-94a1-b501" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
+        <entryLink id="1a75-9cb9-1681-7c37" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="8.0"/>
@@ -3638,6 +3687,8 @@
       </selectionEntries>
       <entryLinks>
         <entryLink id="792a-0eaf-822f-deba" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="33cb-add2-2451-8a51" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="8ce5-37d7-1da2-104a" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="14.0"/>
@@ -3780,6 +3831,8 @@
       </selectionEntries>
       <entryLinks>
         <entryLink id="b6cb-680b-71cb-c6e8" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="7656-b432-4374-7cf5" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="cb09-5a25-1748-2a7d" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="14.0"/>
@@ -3914,6 +3967,8 @@
             <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4cfb-876f-3e70-dc8b" type="max"/>
           </constraints>
         </entryLink>
+        <entryLink id="1828-666c-3058-c610" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="0b11-e33a-52a3-3a59" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="14.0"/>
@@ -4142,6 +4197,8 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="7bb0-02e6-1b19-3bae" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="43aa-6733-a558-3af4" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="2900-1c41-005e-5e92" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="16.0"/>
@@ -4184,6 +4241,8 @@
         <entryLink id="3ea1-402f-c137-555d" name="Dreadnought Arm 2" hidden="false" collective="false" import="true" targetId="0807-2bfe-3cc1-6b2b" type="selectionEntryGroup"/>
         <entryLink id="9b44-edce-34fd-e746" name="Brotherhood Psyker Power" hidden="false" collective="false" import="true" targetId="d6ae-fe14-202c-6351" type="selectionEntry"/>
         <entryLink id="a08a-ab10-f770-ed71" name="Charge of the Ancients" hidden="false" collective="false" import="true" targetId="cb13-f1cd-55ea-718e" type="selectionEntry"/>
+        <entryLink id="5751-d6c3-fde3-75b4" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="71e0-ec59-ab3c-62bb" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="7.0"/>
@@ -4219,6 +4278,8 @@
         <entryLink id="6cc5-64cd-3cb9-2631" name="Dreadnought Arm 1" hidden="false" collective="false" import="true" targetId="e10d-c14d-f074-b6e0" type="selectionEntryGroup"/>
         <entryLink id="5c52-c3b0-880c-2cf7" name="Dreadnought Arm 2" hidden="false" collective="false" import="true" targetId="0807-2bfe-3cc1-6b2b" type="selectionEntryGroup"/>
         <entryLink id="631a-ddb4-1382-bb6d" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="fefd-7363-32a4-eff0" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="812a-eb77-764e-c992" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="8.0"/>
@@ -4317,6 +4378,8 @@
       </selectionEntries>
       <entryLinks>
         <entryLink id="5cf4-6c13-8228-ae42" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="12e0-c743-73f4-a38a" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="9765-19fc-a094-df74" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="80.0"/>
@@ -4499,6 +4562,8 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="a293-21e7-340f-179a" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="09d1-e7a9-883d-de64" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="72a1-95b3-2ce5-c545" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="100.0"/>
@@ -4654,6 +4719,10 @@
           </selectionEntryGroups>
         </selectionEntryGroup>
       </selectionEntryGroups>
+      <entryLinks>
+        <entryLink id="605c-fdba-d070-9ecc" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="8581-8ab7-7435-0716" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
+      </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="2.0"/>
         <cost name="pts" typeId="points" value="30.0"/>
@@ -4718,6 +4787,7 @@
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                <cost name="pts" typeId="points" value="0.0"/>
               </costs>
             </selectionEntry>
             <selectionEntry id="0829-edde-ced5-6835" name="Combi-plasma" hidden="false" collective="false" import="true" type="upgrade">
@@ -4732,6 +4802,7 @@
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                <cost name="pts" typeId="points" value="0.0"/>
               </costs>
             </selectionEntry>
             <selectionEntry id="61aa-c809-9ff5-9f71" name="Combi-flamer" hidden="false" collective="false" import="true" type="upgrade">
@@ -4745,6 +4816,7 @@
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                <cost name="pts" typeId="points" value="0.0"/>
               </costs>
             </selectionEntry>
             <selectionEntry id="4f02-0a29-e349-8d47" name="Combi-melta" hidden="false" collective="false" import="true" type="upgrade">
@@ -4758,6 +4830,7 @@
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+                <cost name="pts" typeId="points" value="0.0"/>
               </costs>
             </selectionEntry>
           </selectionEntries>
@@ -4794,6 +4867,8 @@
           </constraints>
         </entryLink>
         <entryLink id="daf5-bd13-2251-f6ff" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="8216-fe6b-b856-bcbe" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="b1d0-8280-3005-79e3" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="95.0"/>
@@ -5053,6 +5128,8 @@
             <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dbbc-30d9-f91f-bfb0" type="min"/>
           </constraints>
         </entryLink>
+        <entryLink id="2231-5863-6f3e-39aa" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="a4f9-1c73-9861-06dc" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="800.0"/>
@@ -5242,6 +5319,8 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="8682-a067-9a1c-4ee3" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="d919-db3b-8555-7b16" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="abc7-9f08-6ed7-ea23" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
@@ -5392,6 +5471,8 @@
       </selectionEntryGroups>
       <entryLinks>
         <entryLink id="1363-4edb-731c-d0ce" name="Has Battle Honours (Chapter Approved 2018)" hidden="false" collective="false" import="true" targetId="4763-757f-499f-d998" type="selectionEntry"/>
+        <entryLink id="cdfa-8542-fc71-068f" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="562d-b2f3-410a-e729" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="9.0"/>
@@ -5476,6 +5557,8 @@
         <entryLink id="5f31-becf-c236-18fe" name="Shield of Humanity" hidden="false" collective="false" import="true" targetId="77cb-2eca-58ad-5616" type="selectionEntry"/>
         <entryLink id="3554-4218-507d-19c5" name="Exemplar of the Silver Host" hidden="false" collective="false" import="true" targetId="c600-ecd5-4877-8d99" type="selectionEntry"/>
         <entryLink id="f1c8-ed66-da0f-e9a0" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="04c8-6ee3-cc8b-6bfd" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="c705-63ff-20af-8946" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
@@ -5627,6 +5710,8 @@
         <entryLink id="087a-12a8-b47c-3441" name="Exemplar of the Silver Host" hidden="false" collective="false" import="true" targetId="c600-ecd5-4877-8d99" type="selectionEntry"/>
         <entryLink id="cc7d-83bc-f8a1-402c" name="Grand Master Chapter" hidden="false" collective="false" import="true" targetId="24e2-7398-08b9-a0ad" type="selectionEntry"/>
         <entryLink id="c09e-fb8b-cad9-f0e2" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="8f70-1a3f-2efb-4f4b" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="9a9b-eb38-3eae-ff62" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
@@ -5875,6 +5960,8 @@
           </constraints>
         </entryLink>
         <entryLink id="c118-9857-8f0a-3833" name="Stratagem: Warlord Trait" hidden="false" collective="false" import="true" targetId="6771-6ab3-1672-6a39" type="selectionEntry"/>
+        <entryLink id="e61f-967e-f09e-c0d5" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="35ac-ff29-1360-c7ca" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="70.0"/>
@@ -6099,6 +6186,8 @@
             <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4b36-1b7d-e790-defd" type="max"/>
           </constraints>
         </entryLink>
+        <entryLink id="953e-020a-7e3c-7056" name="Battle Honours" hidden="false" collective="false" import="true" targetId="5765-f92b-67f8-8bbb" type="selectionEntryGroup"/>
+        <entryLink id="cebc-5e81-8c62-5b0c" name="Battle Scars" hidden="false" collective="false" import="true" targetId="54bd-3646-3c0e-2a16" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
         <cost name="pts" typeId="points" value="245.0"/>
@@ -6662,7 +6751,7 @@
         </selectionEntry>
         <selectionEntry id="2699-daad-ca38-5742" name="Nemesis Force Halberd" hidden="false" collective="false" import="true" type="upgrade">
           <entryLinks>
-            <entryLink id="f056-51b6-b3b1-1b3f" name="New EntryLink" hidden="false" collective="false" import="true" targetId="bbe1-df34-13d0-7ed1" type="selectionEntry">
+            <entryLink id="f056-51b6-b3b1-1b3f" name="Nemesis Force Halberd" hidden="false" collective="false" import="true" targetId="bbe1-df34-13d0-7ed1" type="selectionEntry">
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d70f-4f6e-66f9-4d5c" type="min"/>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="478e-65cc-4149-3a5a" type="max"/>
@@ -9017,6 +9106,797 @@ If you do, you can only make one attack with that weapon, but when selecting a t
         <entryLink id="23e8-6e8f-418e-0b05" name="Stave of Supremacy" hidden="false" collective="false" import="true" targetId="49bb-0fa0-57ba-9a8b" type="selectionEntry"/>
         <entryLink id="bffc-8d45-d5e7-19db" name="Sanctic Shard" hidden="false" collective="false" import="true" targetId="4ffe-a43f-c47c-eba5" type="selectionEntry"/>
         <entryLink id="74e7-a676-e27a-2a0b" name="Domina Liber Demonica" hidden="false" collective="false" import="true" targetId="29c2-855a-2341-8ce9" type="selectionEntry"/>
+      </entryLinks>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="5765-f92b-67f8-8bbb" name="Battle Honours" hidden="false" collective="false" import="true">
+      <modifiers>
+        <modifier type="set" field="hidden" value="true">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="2aee-51b0-2b2b-218d" type="lessThan"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7a53-eedc-8dbb-8505" type="instanceOf"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7892-58f7-e769-4d87" type="instanceOf"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="d713cda3-5d0f-40d8-b621-69233263ec2a" type="instanceOf"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="0245-b9ed-f1e5-0146" name="Battle Honours (Codex)" publicationId="0cc2-3545-pubN112001" hidden="false" collective="false" import="true">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="509c-046a-495f-f63c" name="Battle Traits" hidden="false" collective="false" import="true">
+              <selectionEntryGroups>
+                <selectionEntryGroup id="1751-f4c0-d17e-c540" name="Grey Knights Terminator" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="2821-762a-49dc-5a17" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="c8ab-8b33-cf5b-f08c" name="2. Punishing Volleys" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b22c-5195-a14f-bb24" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="0514-fc0f-0747-4b8d" name="2. Punishing Volleys" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If you use the Psybolt Ammunition Stratagem when this unit shoots, reduce the cost by 1CP.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="b1ff-b4ca-81d6-0621" name="1. Charged Locomotors" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="438e-2fdf-6974-0b73" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="c970-7036-df27-2e85" name="1. Charged Locomotors" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this unit successfully manifests a psychic power, then until the end of the turn you can re-roll charge rolls made for this unit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="48ea-4488-29ab-dee8" name="3. Dominion Blades" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6167-b8dc-ed21-460f" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="9a21-0376-4042-bcc0" name="3. Dominion Blades" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time this unit successfully manifests the Hammerhand psychic power, until the start of your next Psychic phase, improve the Armour Penetration characteristic of Nemesis weapons that models in this unit are equipped with by 1.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="6e56-496a-c50c-fa58" name="4. Locus of Power (Aura)" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7613-9938-d7a0-550e" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="04a1-ac96-a169-2be5" name="4. Locus of Power (Aura)" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While a friendly &lt;BROTHERHOOD&gt; CORE unit is within 6&quot; of this unit, each time that unit successfully manifests the Smite psychic power, you can re-roll the dice to determine the number of mortal wounds inflicted.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="66b0-861a-e32a-6a39" name="5. Indomitable Bastions" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7c9c-7e21-9355-55a5" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="1fca-da94-9064-d9ea" name="5. Indomitable Bastions" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time an attack with an Armour Penetration characteristic of -1 is allocated to a model in this unit, that attack has an Armour Penetration characteristic of 0 instead.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="a883-50c1-0643-e7b0" name="6. Proven Slayers" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0b23-6650-3af8-5aaf" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="9ac1-47fb-0f78-1e2b" name="6. Proven Slayers" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Once per battle, if you use the Steel Heart Stratagem when this unit is selected to shoot or fight, it costs 0 Command points instead of 1.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="3cc5-790e-feb8-d450" name="Grey Knights Apothecary" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="e126-9580-f366-7bae" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="21ee-baf1-8bfe-2935" name="1-3. Spiritual Restoration" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cdce-2282-6d5f-3187" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="7c11-0fed-53f2-ff6c" name="1-3. Spiritual Restoration" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this model is part of your Crusade army, and if it has not been taken out of action during a battle, then at the end of the battle you can ignore one failed Out of Action test taken for a GREY KNIGHTS unit (excluding VEHICLE units) - that test is treated as having been passed instead.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="aa37-0c7f-995d-38e8" name="4-6. Battlefield Healer" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="20ca-705c-7ba5-981c" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="2b68-1d8e-f0ce-2b47" name="4-6. Battlefield Healer" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time you use the Chirurgic Resurrection Stratagem, if you select this model, you can roll one D6. On a 4+, gain 1 Command point.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="86bc-1efa-460f-0c80" name="Grey Knights Techmarine" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="2a13-c803-fbe2-96e0" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="0a5d-cab0-83ae-2bd1" name="1-3. Machine Spirit Healer" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5ea7-aace-ce48-57b1" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="6e50-d312-f85d-0f00" name="1-3. Machine Spirit Healer" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time this model successfully manifests a Psychic power, you can select one GREY KNIGHTS VEHICLE model that is within 6&quot; of it. That model regains 1 lost wound.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="5747-b9c1-fca0-6ce0" name="4-6. Master of the Motive Force" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ba1d-1a65-cfed-8619" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="b1c6-aedd-9a66-39be" name="4-6. Master of the Motive Force" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this model is part of your Crusade army, and if it has not been taken out of action during a battle, then at the end of the battle you can ignore one failed Out of Action test taken for a GREY KNIGHTS VEHICLE unit - that test is treated as having been passed instead.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="f25d-a140-ff0b-e76c" name="Grey Knights Machine Spirit" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="04b2-68c7-14dd-c570" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="7bbc-dd85-4982-dd3b" name="1-2. Aggressive Machine Spirit" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="97c8-dee9-983b-0a7c" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="1b1a-2119-ee2d-8ad4" name="1-2. Aggressive Machine Spirit" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Improve this model’s Weapon Skill characteristic by 3.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="dce7-0a25-615f-a387" name="3-4. Precise Machine Spirit" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5781-5ed2-ca74-8b20" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="5120-30ff-b3c0-c61b" name="3-4. Precise Machine Spirit" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">This model does not suffer the penalty incurred to its hit rolls for firing at enemy units that are within Engagement Range of it.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="76a5-5996-f321-bab4" name="5-6. Indomitable Machine Spirit" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b9da-9fb0-d078-edce" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="3bd2-4862-3d85-1f82" name="5-6. Indomitable Machine Spirit" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Add 2 to this model’s Wounds characteristic.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="caa6-9645-20f8-8d22" name="Crusade Relics" hidden="false" collective="false" import="true">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="ef18-746a-369f-43a4" type="notInstanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <selectionEntryGroups>
+                <selectionEntryGroup id="51f4-69fd-653a-3a33" name="Antiquity Relics" hidden="false" collective="false" import="true">
+                  <selectionEntries>
+                    <selectionEntry id="7ee3-1535-d76e-f22f" name="Nullbolts" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditionGroups>
+                            <conditionGroup type="and">
+                              <conditions>
+                                <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="20b0-c86b-8b73-267d" type="lessThan"/>
+                                <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="fded-edb8-1d1e-99a5" type="lessThan"/>
+                              </conditions>
+                            </conditionGroup>
+                          </conditionGroups>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="999b-7e40-118c-ffa7" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="68df-e4e2-26b4-53c3" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="b4ef-3aa6-76d2-4cfd" name="Nullbolts" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Once per battle, when the bearer shoots with a storm bolter, if the target is a DAEMON or PSYKER, you can choose for it to fire a nullbolt. If you do, you can only make one attack with that weapon, but if it scores a hit, that attack inflicts D3+3 mortal wounds on the target and the attack sequence ends. In addition, if the target was a SLAANESH DAEMON, then until the end of the battle, that unit cannot be selected to fight in the Fight phase until after all other eligible units have done so.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="4613-095a-5140-231d" name="The Plaguebane Tome" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d952-2254-e417-53c9" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="cfd4-518c-c28f-da8d" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="57a8-ab4b-6f7c-8810" name="The Plaguebane Tome" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">- Each time an attack is made against the bearer, your opponent cannot re-roll the wound roll.
+- The bearer gains the following ability: ‘Plaguebane Tome (Aura): While an enemy NURGLE unit is within 6&quot; of the bearer, each time a model in that unit makes an attack, your opponent cannot re-roll the wound roll.’</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="40c0-6443-9feb-a296" name="Psybane Hood" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditions>
+                            <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="b6fc-4377-2f38-1842" type="notInstanceOf"/>
+                          </conditions>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e246-55b4-aa87-b637" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="9c3a-1532-e591-fccc" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="b0aa-45f5-0bab-52b5" name="Psybane Hood" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Replace the bearers Psychic Hood ability with the following: ‘Psybane Hood: Each time a Deny the Witch test is taken for this model, if the unit attempting to manifest the psychic power is within 18&quot; of this model, add 1 to that Deny the Witch test. If the unit attempting to manifest the psychic power is within 18&quot; of this model and is a TZEENTCH DAEMON, add 3 to that Deny the Witch test instead.’</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="4084-becd-16ad-71d0" name="Blade of Armageddon" hidden="false" collective="false" import="true" type="upgrade">
+                      <modifiers>
+                        <modifier type="set" field="hidden" value="true">
+                          <conditions>
+                            <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="2699-daad-ca38-5742" type="lessThan"/>
+                          </conditions>
+                        </modifier>
+                      </modifiers>
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4d87-cd24-4c70-138f" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="d421-aa27-8557-15fe" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="a8c7-aca3-5c99-0251" name="Blade of Armageddon" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+                          <characteristics>
+                            <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+                            <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee</characteristic>
+                            <characteristic name="S" typeId="59b1-319e-ec13-d466">+3</characteristic>
+                            <characteristic name="AP" typeId="75aa-a838-b675-6484">-3</characteristic>
+                            <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">3</characteristic>
+                            <characteristic name="Abilities" typeId="837d-5e63-aeb7-1410">Each time an attack is made with this weapon against a KHORNE DAEMON unit, that attack has a Strength characteristic of x2 and invulnerable saving throws cannot be made against that attack.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="fc01-f28c-b2a8-60e4" name="Artificer Relics" hidden="false" collective="false" import="true">
+                  <selectionEntries>
+                    <selectionEntry id="834b-cf2a-effb-967c" name="Bones of Falkothan" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fb83-58cf-dd5d-b231" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="943b-4d1e-20f5-4359" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="e77c-58d6-8550-4a5e" name="Bones of Falkothan" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Once per battle, at the start of any battle round, the bearer can draw upon the power of the bones. If they do so, then until the end of that battle round, the bearer has a 3+ invulnerable save.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="a854-39cc-3e85-93ee" name="Armour of Caladys" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3eac-c427-a29c-609e" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="f774-2bbf-6278-72b8" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="0ae1-c80f-2e95-34b0" name="Armour of Caladys" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a DAEMON unit makes a melee attack against the bearer, subtract 1 from that attack’s hit roll.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="5e26-7f81-2a0b-ab42" name="Legendary Relics" hidden="false" collective="false" import="true">
+                  <selectionEntries>
+                    <selectionEntry id="7205-325c-e20f-3650" name="The Helm of Janus" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c088-126d-8ad5-b92a" type="max"/>
+                        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="fd80-c4d8-6810-8d4a" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="0315-f8a4-0d69-fac1" name="The Helm of Janus" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">- The bearer knows all of the Psychic powers from the Dominus discipline in addition to any other powers it knows.
+- The bearer can attempt to manifest one additional psychic power in your Psychic phase, and can attempt to deny one additional psychic power in your opponent’s Psychic phase.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="5f7f-81e9-7a6c-f958" name="Honoured Titles" hidden="false" collective="false" import="true">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="f9b9-e01a-fef8-a8af" type="lessThan"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <selectionEntries>
+                <selectionEntry id="e54e-0f7b-abfd-41e2" name="Steward of the Armoury" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="1be0-f4dd-1f6b-486e" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c3b4-794a-7bfc-e46e" type="max"/>
+                    <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="5829-d96f-c3d3-3eec" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="11f7-2247-ffa6-f3f5" name="Steward of the Armoury" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this GRAND MASTER is part of your Crusade force, then the Rearm and Resupply Requisition costs 0 Requisition points if the unit being Rearmed and Resupplied is a GREY KNIGHTS unit.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                </selectionEntry>
+                <selectionEntry id="5555-1df0-82ac-88c5" name="Admiral of the Fleet" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="d69e-d595-c0ac-b7be" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="eea3-60ff-bb48-6c8d" type="max"/>
+                    <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="2ac6-3579-2d36-228c" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="f94e-4171-33cb-b04d" name="Admiral of the Fleet" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">- If this GRAND MASTER is on the battlefield, you can use the Psy-lance Bombardment Stratagem twice during the battle instead of once.
+- If this GRAND MASTER is on the battlefield, each time you use the Psy-lance Bombardment Stratagem, it costs 1 Command point instead of 3.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                </selectionEntry>
+                <selectionEntry id="a96d-f444-cc39-5099" name="Warden of the Librarius" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="f7b6-e2c6-94c9-8327" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="74ef-ade9-a1a9-d647" type="max"/>
+                    <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="fe15-8570-506d-d0bd" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="f3fd-d0de-7ad7-3371" name="Warden of the Librarius" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this GRAND MASTER is part of your Crusade force, then the Psychic Meditations Requisition costs 0 Requisition points if the unit selected is a GREY KNIGHTS PSYKER unit.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                </selectionEntry>
+                <selectionEntry id="5bfc-1b76-e4bc-552b" name="Protector of the Sanctum Sanctorum" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="1812-4aba-98d5-cd3f" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7700-e63b-c993-3061" type="max"/>
+                    <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="04d9-ac74-33e9-89e6" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="357b-2fb3-bd4b-e4d8" name="Protector of the Sanctum Sanctorum" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this GRAND MASTER is part of your Crusade force, then the Relic Requisition costs 0 Requisition points if the model gaining the Relic is a GREY KNIGHTS unit.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                </selectionEntry>
+                <selectionEntry id="46be-2781-f94f-9ca6" name="High Seneschal of the Fortress" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="68e8-4053-6e4e-6afb" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="41ee-6403-5b99-7448" type="max"/>
+                    <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="b210-4a4f-d645-dfa1" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="038f-895d-93b7-6083" name="High Seneschal of the Fortress" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this GRAND MASTER is part of your Crusade army and you are the Defender, then you start the battle with an additional 2 Command points.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                </selectionEntry>
+                <selectionEntry id="defe-2924-b0f0-5f80" name="Representative to the Inquisition" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="73e8-6b6b-b1d2-ef9c" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f64e-2d13-485a-7a43" type="max"/>
+                    <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="43c0-06c8-9e6c-7469" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="8170-7f92-8587-272d" name="Representative to the Inquisition" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">- If this GRAND MASTER is part of your Crusade army, then when you select Agendas for that battle, you can select one additional Agenda and when all Agendas have been revealed, discard one of your Agendas.
+- If this GRAND MASTER is part of your Crusade force, and it also includes any INQUISITOR units, all EXACTORS units on the battlefield are treated as being within range of the Unquestionable Wisdom ability while there are any INQUISITOR units on the battlefield.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                </selectionEntry>
+                <selectionEntry id="863d-8893-5e11-75c0" name="Knight Commander of the Recruits" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="cccd-a8ea-e301-34fb" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b196-ceac-5480-4ba2" type="max"/>
+                    <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="6ed2-ed27-12f9-cd63" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="cd3b-d196-5390-a335" name="Knight Commander of the Recruits" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this GRAND MASTER is part of your Crusade force, then the Fresh Recruits Requisition costs 0 Requisition points if the unit gaining the Fresh Recruits is a GREY KNIGHTS unit.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                </selectionEntry>
+                <selectionEntry id="0e58-f7af-8b94-db39" name="Keeper of the Augurium" hidden="false" collective="false" import="true" type="upgrade">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="2f86-5489-d689-5435" type="lessThan"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <constraints>
+                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="80e5-c6fd-18fc-c4e2" type="max"/>
+                    <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="2431-049e-9a68-91a7" type="max"/>
+                  </constraints>
+                  <profiles>
+                    <profile id="9e18-592b-db2e-ea39" name="Keeper of the Augurium" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                      <characteristics>
+                        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this GRAND MASTER is part of your Crusade army and you are the Attacker, then you start the battle with an additional 2 Command points.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+            <selectionEntryGroup id="5ccd-741c-7a12-f55e" name="Psychic Fortitudes" hidden="false" collective="false" import="true">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="e691-aad7-d21c-1023" type="notInstanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <selectionEntryGroups>
+                <selectionEntryGroup id="7847-7125-8a7c-596f" name="Characters Only" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="ef18-746a-369f-43a4" type="notInstanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="3b9c-b358-fa51-1074" name="3-4. Focused Might" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="828e-b54f-f84f-3812" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="654f-5b7f-eaa3-33c5" name="3-4. Focused Might" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">If this model successfully manifests any psychic powers in your Psychic phase, then until the end of the turn, add 1 to this model’s Strength characteristic.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="bd06-6b34-c0a0-3757" name="1-2. Malleus Daemonica" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ceca-0432-5b51-182f" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="e4ab-0d15-14db-2753" name="1-2. Malleus Daemonica" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While this unit is within 6&quot; of any enemy DAEMON units, if the Psychic Channelling Stratagem is used when this unit attempts to manifest a psychic power, it costs 0 Command points instead of 1.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="8394-d765-b0b6-bc89" name="5-6. Mental Projection" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="af3f-9b81-95e9-8fd5" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="ec6f-e329-85c0-b2e3" name="5-6. Mental Projection" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time this unit manifests a psychic power from the Dominus discipline, you can select one friendly GREY KNIGHTS model within 12&quot; of this model. Measure any distances and check visibility from that model instead.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+                <selectionEntryGroup id="2f2f-b4eb-1b70-f580" name="Non-Characters Only" hidden="false" collective="false" import="true">
+                  <modifiers>
+                    <modifier type="set" field="hidden" value="true">
+                      <conditions>
+                        <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="ef18-746a-369f-43a4" type="instanceOf"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                  <selectionEntries>
+                    <selectionEntry id="099f-d9d3-5952-8f74" name="3-4. Channelled Fury" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="28c3-7b84-0e37-7db0" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="35f4-1bcb-50af-1982" name="3-4. Channelled Fury" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time this unit attempts to manifest the Smite psychic power, if an enemy PSYKER attempts to deny that power and is unsuccessful, that enemy PSYKER suffers 1 mortal wound.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="dc4a-c605-afd5-15f1" name="1-2. Fortress of Minds" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fc7c-38a9-dedd-8e67" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="ff33-6822-7369-fa0b" name="1-2. Fortress of Minds" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While this unit contains between 5 and 9 models, add 1 to Deny the Witch tests taken for this unit. While this unit contains 10 or more models, add 2 to Deny the Witch tests taken for this unit.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry id="e00e-0e0f-0ba8-3d6c" name="5-6. Layered Minds" hidden="false" collective="false" import="true" type="upgrade">
+                      <constraints>
+                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9ab6-4771-a9e0-5035" type="max"/>
+                      </constraints>
+                      <profiles>
+                        <profile id="69dd-8339-ec8e-db23" name="5-6. Layered Minds" publicationId="0cc2-3545-pubN112001" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                          <characteristics>
+                            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While this unit contains 5 or more models, it can attempt to manifest the Smite psychic power in the same phase as it performs a psychic action.</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                  </selectionEntries>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntryGroup>
+        <selectionEntryGroup id="ab83-0a7b-b659-3352" name="Battle Honours (Hexfire)" hidden="false" collective="false" import="true">
+          <selectionEntries>
+            <selectionEntry id="ee7f-8f57-a41a-cb10" name="Witness to the Maelstrom" publicationId="116a-d243-541d-1b90" page="22" hidden="false" collective="false" import="true" type="upgrade">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="e691-aad7-d21c-1023" type="notInstanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7aa4-eba6-db82-f408" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="04b1-341d-f6b3-e327" name="Witness to the Maelstrom" publicationId="116a-d243-541d-1b90" page="22" hidden="false" typeId="ae70-4738-0161-bec0" typeName="Psychic Power">
+                  <characteristics>
+                    <characteristic name="Warp Charge" typeId="5ffd-b800-c317-532a">6</characteristic>
+                    <characteristic name="Range" typeId="fd64-cbc4-94de-24cc">9&quot;</characteristic>
+                    <characteristic name="Details" typeId="ad96-dfa4-b4ed-656d">Blessing: If manifested, select one friendly GREY KNIGHTS unit within 9&quot; of and visible to this PSYKER. Until the start of your next Psychic phase, each time a model in that unit would lose a wound as the result of an attack made by a CHAOS model, roll one D6: on a 5+, that wound is not lost.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+            </selectionEntry>
+            <selectionEntry id="5616-180a-491b-0901" name="Know Thy Enemy" hidden="false" collective="false" import="true" type="upgrade">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="e691-aad7-d21c-1023" type="notInstanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1bd7-4157-196d-9f9d" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="eec9-3645-3fa1-3a95" name="Witness to the Maelstrom" publicationId="116a-d243-541d-1b90" page="22" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                  <characteristics>
+                    <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a Deny the Witch test is taken for this unit, if the unit attempting to manifest the psychic power has the TZEENTCH keyword, add 1 to that Deny the Witch test.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+            </selectionEntry>
+            <selectionEntry id="c5b1-7f50-14f2-46f4" name="Truesilver Resolve" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5113-8372-cdf1-b52c" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="5d10-5ef2-2561-df67" name="Truesilver Resolve" publicationId="116a-d243-541d-1b90" page="22" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                  <characteristics>
+                    <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">While this unit is within 12&quot; of any enemy units, each time a Morale test is taken for this unit, that Morale test is automatically passed.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+            </selectionEntry>
+            <selectionEntry id="f067-2cbb-a999-8759" name="Imprisoned Evil" hidden="false" collective="false" import="true" type="upgrade">
+              <modifiers>
+                <modifier type="set" field="hidden" value="true">
+                  <conditions>
+                    <condition field="selections" scope="ancestor" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="5254-e74b-2380-e119" type="notInstanceOf"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="192f-277a-c606-b014" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="6c2b-7bd7-d964-709a" name="Imprisoned Evil" publicationId="116a-d243-541d-1b90" page="22" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                  <characteristics>
+                    <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Before the battle, when you muster your army, select one model equipped with a nemesis warding stave in this unit. Until the end of the battle, that model has a 4+ invulnerable save against melee attacks.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <entryLinks>
+        <entryLink id="88bd-befc-318f-7b4d" name="Battle Honours (Crusade - BRB)" hidden="false" collective="false" import="true" targetId="3219-c04d-a4d0-69ef" type="selectionEntryGroup"/>
+      </entryLinks>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="54bd-3646-3c0e-2a16" name="Battle Scars" hidden="false" collective="false" import="true">
+      <modifiers>
+        <modifier type="set" field="hidden" value="true">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" childId="2aee-51b0-2b2b-218d" type="lessThan"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7a53-eedc-8dbb-8505" type="instanceOf"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="7892-58f7-e769-4d87" type="instanceOf"/>
+                <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="d713cda3-5d0f-40d8-b621-69233263ec2a" type="instanceOf"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="c3f0-5835-ad13-acf7" name="Battle Scars (Hexfire)" hidden="false" collective="false" import="true">
+          <selectionEntries>
+            <selectionEntry id="fa66-1528-c04b-7b18" name="Scarred but Unbroken" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d96b-494e-c5f3-fbcd" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="4bc5-95ed-fa33-836e" name="Scarred but Unbroken" publicationId="116a-d243-541d-1b90" page="22" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                  <characteristics>
+                    <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">- Each time a Combat Attrition test is taken for this unit, this unit is treated as being below Half Strength.
+- Each time a model in this unit makes a melee attack against a TZEENTCH unit, re-roll a hit roll of 1.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+            </selectionEntry>
+            <selectionEntry id="d9af-f263-9474-7efd" name="Taint of Antwyr" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ff8f-b8f6-1a76-3b64" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="da45-0165-34a0-8cd9" name="Taint of Antwyr" publicationId="116a-d243-541d-1b90" page="22" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                  <characteristics>
+                    <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Subtract 1 from Psychic tests taken for this unit.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+            </selectionEntry>
+            <selectionEntry id="2e05-934a-9cc2-ff76" name="Secrets Spilled" hidden="false" collective="false" import="true" type="upgrade">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5b50-dd34-2d31-4019" type="max"/>
+              </constraints>
+              <profiles>
+                <profile id="d983-970d-6522-9689" name="Secrets Spilled" publicationId="116a-d243-541d-1b90" page="22" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+                  <characteristics>
+                    <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time this unit suffers Perils of the Warp, your opponent gains 1 Command point.</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <entryLinks>
+        <entryLink id="dcc4-a706-ea56-2b33" name="Battle Scars" hidden="false" collective="false" import="true" targetId="cec4-9abd-dcdb-c9c2" type="selectionEntryGroup"/>
       </entryLinks>
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
